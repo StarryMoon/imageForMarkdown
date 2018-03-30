@@ -1,2 +1,2 @@
 # imageForMarkdown
-the image of Markdown
+the images of Markdown
